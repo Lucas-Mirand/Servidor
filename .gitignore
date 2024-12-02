@@ -1,6 +1,1 @@
-node_modules
-chave: AIzaSyClK35aBJv5Uh20DftImfgtKo2lAzhqYPE
-mongo: usuario == LucasMiranda
-       senha == lucasm.s14
-       mongodb+srv://LucasMiranda:lucasm.s14@cluster0.qzjis.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-.env
+
